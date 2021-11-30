@@ -1,4 +1,4 @@
-using Patterns.Mobs;
+using Mobs;
 using UnityEngine;
 
 namespace Patterns.Factory

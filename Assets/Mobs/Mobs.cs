@@ -1,4 +1,4 @@
-namespace Patterns.Mobs
+namespace Mobs
 {
     public abstract class Mob
     {
