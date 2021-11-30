@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -26,6 +27,9 @@ namespace UnityScriptingExamples
         public Quaternion Quaternion;
 
         public UnityEngine.Object UnityEngineObjectAndItsSubClasses;
+
+        [NonSerialized]
+        public int NonSerializedNumber;
 
         [Header("List of supported types")]
         public List<int> ListOfInts;

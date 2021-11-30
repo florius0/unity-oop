@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace UnityScriptingExamples
 {
-    [CreateAssetMenu(fileName = "Simple ScriptableObject", menuName = "UnityOOP/Simple ScriptableObject", order = 0)]
+    [CreateAssetMenu(fileName = "Simple ScriptableObject", menuName = "UnityScripting/Simple ScriptableObject", order = 0)]
     public class SimpleScriptableObject : ScriptableObject
     {
         [Header("Simple types")]
