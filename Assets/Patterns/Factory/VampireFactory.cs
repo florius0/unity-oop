@@ -1,3 +1,4 @@
+using Patterns.Mobs;
 using UnityEngine;
 
 namespace Patterns.Factory

@@ -1,4 +1,4 @@
-namespace Patterns.Factory
+namespace Patterns.Mobs
 {
     public abstract class Mob
     {
